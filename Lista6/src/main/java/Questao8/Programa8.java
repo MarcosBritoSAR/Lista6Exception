@@ -19,14 +19,14 @@ public class Programa8 {
         try {
             System.out.println("Informe sua altura");
             tam = scan.nextDouble();
+            
             if(tam == 0){
-                throw new InputMismatchException();
+                throw new ArithmeticException();
             }
             System.out.println("Informe seu peso");
             peso = scan.nextDouble();
 
             System.out.println("Seu IMC é de:" + (peso / Math.pow(tam, 2)));
-            System.out.println(4 / 0);
 
         } catch (InputMismatchException e) {
             System.out.println("<ERROR> Entrada de dados inválidas");
