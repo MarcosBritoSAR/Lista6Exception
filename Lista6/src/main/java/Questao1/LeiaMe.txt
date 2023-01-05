@@ -1,0 +1,2 @@
+Uma estrutura dentro do paradigma do POO que posibilita com que se tenha um controle do
+programa em caso de convergências e erros(Exceções) no código;

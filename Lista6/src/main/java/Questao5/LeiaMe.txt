@@ -1,0 +1,7 @@
+try{
+//Bloco que será monitorado para verificação de erros}
+catch( TipoDaExcecao Exception){
+//Tratamento do erro}
+finally{
+//Sera execultado sempre ao final do programa independende se o erro for tratado ou não;
+}

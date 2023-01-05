@@ -1,0 +1,2 @@
+Serve para o lançamento do tratamento de uma Exception, me posibilitando 
+estabaler um lugar especifico no código somente para o tratamento das Exception

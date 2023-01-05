@@ -1,0 +1,3 @@
+As verificadas e as não verificadas; 
+As verificadas eu tenho por exemplo as IOException e SQLException;
+As não verificadas eu tenho por exemplo os NullPointException e ArithMetricException;

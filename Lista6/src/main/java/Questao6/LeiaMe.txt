@@ -1,0 +1,2 @@
+E usada quando eu necessito criar minha propia excecão. Faz com que eu defina um 
+erro no qual eu busco;
